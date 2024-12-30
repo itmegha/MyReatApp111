@@ -1,0 +1,13 @@
+#a{
+    border: solid 2px black !important;
+    float: left !important;
+    margin: 20px !important;
+    
+}
+#btn1{
+    padding: 30px;
+}
+button{
+    margin: 5px;
+    size: 80px;
+}
